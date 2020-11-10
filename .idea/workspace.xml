@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="602d7269-3fe1-48dd-9120-962f8be30119" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="602d7269-3fe1-48dd-9120-962f8be30119" name="Default Changelist" comment="change">
       <change afterPath="$PROJECT_DIR$/B21Project2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +44,20 @@
       <recent name="C:\Users\NASSER KEKLI\IdeaProjects" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="B21Project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,5 +68,15 @@
       <updated>1605036376478</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="170" y="0" key="CommitChangelistDialog2" timestamp="1605037519989">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="170" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1605037519989" />
+    <state x="312" y="0" key="RollbackChangesDialog" timestamp="1605037610244">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="312" y="0" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1605037610244" />
   </component>
 </project>
